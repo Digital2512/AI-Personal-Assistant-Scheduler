@@ -22,8 +22,8 @@ activity_20,Locked In activity,Sam,59,activity_description_1,to_do_list_1,19/01/
 activity_21,Locked In activity,Sam,59,activity_description_1,to_do_list_1,19/01/2025,19/01/2025,20:00,20:59,In_Progress,One-Off
 activity_22,Locked In activity,Sam,59,activity_description_1,to_do_list_1,19/01/2025,19/01/2025,21:00,21:59,In_Progress,One-Off
 activity_23,Locked In activity,Sam,59,activity_description_1,to_do_list_1,19/01/2025,19/01/2025,22:00,22:59,In_Progress,One-Off
-activity_24,Locked In activity,Sam,59,activity_description_1,to_do_list_1,19/01/2025,19/01/2025,23:00,23:59,In_Progress,One-Off
-
+activity_24,Scheduled activity,Sam,59,activity_description_1,to_do_list_1,18/01/2025,19/01/2025,23:00,23:59,In_Progress,One-Off
+activity_25,Locked In activity,Sam,59,activity_description_1,to_do_list_1,19/01/2025,19/01/2025,23:00,23:59,In_Progress,One-Off
 
 
 
