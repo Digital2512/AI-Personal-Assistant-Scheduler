@@ -1,9 +1,12 @@
+import ApiTest from "@/components/apitest";
 
 export default async function Page() {
    
     return (
       <div>
-          test page
+          TEST API PAGE
+
+          <ApiTest/>
       </div>
     );
   }
