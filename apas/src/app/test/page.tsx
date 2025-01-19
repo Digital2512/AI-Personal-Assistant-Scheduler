@@ -1,5 +1,3 @@
-import ApiTest from "@/components/apitest";
-import ApiAxios from "@/components/apiaxios";
 import Link from "next/link";
 
 export default async function Page() {
